@@ -1,0 +1,25 @@
+.p{
+  height: 200px;
+  width: 50px;
+}
+
+.div{
+  display: flex;
+  position: absolute;
+  top: 10px;
+
+}
+.div1{
+  display: flex;
+  position: absolute;
+  top: 10px;
+  left: 40px;
+  justify-content: space-between;
+  height: 200px;
+  width: 935px;
+}
+.p1{
+  height: 160px;
+  width: 35px;
+  background-color: gray
+}
